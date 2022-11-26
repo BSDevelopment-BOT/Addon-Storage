@@ -1,1 +1,1 @@
-r
+Location for SimplePets Addon files
